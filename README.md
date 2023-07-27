@@ -35,7 +35,7 @@ UNOFFICIAL Checkm8 Jailbreak Tool based on OpenRa1n & Palera1n
 - [palera1n team](https://github.com/palera1n) - payloads
 - [checkra1n](https://checkra.in/) - yeah, do i really need to explain this one?
 - [iSkorpion](https://iskorpion.com/products) - The main reason why I did this.
-- [Zadiag] (https://zadig.akeo.ie/) - for installing drivers
+- [Zadiag](https://zadig.akeo.ie/) - for installing drivers
 
 ## How to compile
 
